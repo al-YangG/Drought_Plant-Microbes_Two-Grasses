@@ -1,0 +1,99 @@
+﻿Group,Response,Factor,Variance_explained_percent,Sig
+Plant performance,Species biomass,Moisture (M),1.9925,
+Plant performance,Species biomass,Climatic conditions (C),9.524,Yes
+Plant performance,Species biomass,Plant species (P),51.9611,Yes
+Plant performance,Species biomass,M:C,0.2381,
+Plant performance,Species biomass,M:P,0.319,
+Plant performance,Species biomass,C:P,4.3057,Yes
+Plant performance,Species biomass,M:C:P,0.0315,
+Plant performance,SLA,Moisture (M),3.1685,Marginal
+Plant performance,SLA,Climatic conditions (C),5.9159,Yes
+Plant performance,SLA,Plant species (P),4.2213,Marginal
+Plant performance,SLA,M:C,0.0242,
+Plant performance,SLA,M:P,2.3447,
+Plant performance,SLA,C:P,0.8912,
+Plant performance,SLA,M:C:P,1.7477,
+Plant performance,LDMC,Moisture (M),3.7078,Marginal
+Plant performance,LDMC,Climatic conditions (C),0.1067,
+Plant performance,LDMC,Plant species (P),12.991,Yes
+Plant performance,LDMC,M:C,0.2043,
+Plant performance,LDMC,M:P,3.5988,Marginal
+Plant performance,LDMC,C:P,1.3238,
+Plant performance,LDMC,M:C:P,1.3621,
+Microbial richness,Bacteria_Root endosphere,Moisture (M),12.9009,Yes
+Microbial richness,Bacteria_Root endosphere,Climatic conditions (C),0.0136,
+Microbial richness,Bacteria_Root endosphere,Plant species (P),9.0653,Yes
+Microbial richness,Bacteria_Root endosphere,M:C,2.798,Marginal
+Microbial richness,Bacteria_Root endosphere,M:P,0.0013,
+Microbial richness,Bacteria_Root endosphere,C:P,0.786,
+Microbial richness,Bacteria_Root endosphere,M:C:P,0.4382,
+Microbial richness,Bacteria_Rhizosphere,Moisture (M),7.6869,Yes
+Microbial richness,Bacteria_Rhizosphere,Climatic conditions (C),0.4444,
+Microbial richness,Bacteria_Rhizosphere,Plant species (P),8.3317,Yes
+Microbial richness,Bacteria_Rhizosphere,M:C,2.8097,Marginal
+Microbial richness,Bacteria_Rhizosphere,M:P,0.8524,
+Microbial richness,Bacteria_Rhizosphere,C:P,1.7323,
+Microbial richness,Bacteria_Rhizosphere,M:C:P,2.4024,Marginal
+Microbial richness,Fungi_Leaf endosphere,Moisture (M),0.4184,
+Microbial richness,Fungi_Leaf endosphere,Climatic conditions (C),3.3776,Marginal
+Microbial richness,Fungi_Leaf endosphere,Plant species (P),19.4129,Yes
+Microbial richness,Fungi_Leaf endosphere,M:C,0.513,
+Microbial richness,Fungi_Leaf endosphere,M:P,0,
+Microbial richness,Fungi_Leaf endosphere,C:P,0.0615,
+Microbial richness,Fungi_Leaf endosphere,M:C:P,0.1378,
+Microbial richness,Fungi_Root endosphere,Moisture (M),0.9134,
+Microbial richness,Fungi_Root endosphere,Climatic conditions (C),0.4462,
+Microbial richness,Fungi_Root endosphere,Plant species (P),0.6787,
+Microbial richness,Fungi_Root endosphere,M:C,0.4074,
+Microbial richness,Fungi_Root endosphere,M:P,0.0994,
+Microbial richness,Fungi_Root endosphere,C:P,0.0317,
+Microbial richness,Fungi_Root endosphere,M:C:P,5.0798,Yes
+Microbial richness,Fungi_Rhizosphere,Moisture (M),1.9341,
+Microbial richness,Fungi_Rhizosphere,Climatic conditions (C),1.5964,
+Microbial richness,Fungi_Rhizosphere,Plant species (P),9.4208,Yes
+Microbial richness,Fungi_Rhizosphere,M:C,2.0894,
+Microbial richness,Fungi_Rhizosphere,M:P,0.0577,
+Microbial richness,Fungi_Rhizosphere,C:P,0.1059,
+Microbial richness,Fungi_Rhizosphere,M:C:P,0.556,
+Microbial community composition,Bacteria_Leaf endosphere,Moisture (M),0.6099,Marginal
+Microbial community composition,Bacteria_Leaf endosphere,Climatic conditions (C),1.0456,Yes
+Microbial community composition,Bacteria_Leaf endosphere,Plant species (P),1.3597,Yes
+Microbial community composition,Bacteria_Leaf endosphere,M:C,0.5286,
+Microbial community composition,Bacteria_Leaf endosphere,M:P,0.5305,
+Microbial community composition,Bacteria_Leaf endosphere,C:P,0.5668,
+Microbial community composition,Bacteria_Leaf endosphere,M:C:P,0.513,
+Microbial community composition,Bacteria_Root endosphere,Moisture (M),0.7102,Yes
+Microbial community composition,Bacteria_Root endosphere,Climatic conditions (C),0.5928,Yes
+Microbial community composition,Bacteria_Root endosphere,Plant species (P),1.0498,Yes
+Microbial community composition,Bacteria_Root endosphere,M:C,0.7078,Yes
+Microbial community composition,Bacteria_Root endosphere,M:P,0.5839,Marginal
+Microbial community composition,Bacteria_Root endosphere,C:P,0.5413,
+Microbial community composition,Bacteria_Root endosphere,M:C:P,0.3856,
+Microbial community composition,Bacteria_Rhizosphere,Moisture (M),0.7065,Yes
+Microbial community composition,Bacteria_Rhizosphere,Climatic conditions (C),0.4882,
+Microbial community composition,Bacteria_Rhizosphere,Plant species (P),1.0064,Yes
+Microbial community composition,Bacteria_Rhizosphere,M:C,0.3994,
+Microbial community composition,Bacteria_Rhizosphere,M:P,0.5631,Marginal
+Microbial community composition,Bacteria_Rhizosphere,C:P,0.5725,Yes
+Microbial community composition,Bacteria_Rhizosphere,M:C:P,0.4834,
+Microbial community composition,Fungi_Leaf endosphere,Moisture (M),0.6378,
+Microbial community composition,Fungi_Leaf endosphere,Climatic conditions (C),1.1626,Yes
+Microbial community composition,Fungi_Leaf endosphere,Plant species (P),12.4539,Yes
+Microbial community composition,Fungi_Leaf endosphere,M:C,0.7985,
+Microbial community composition,Fungi_Leaf endosphere,M:P,0.6425,
+Microbial community composition,Fungi_Leaf endosphere,C:P,1.0256,Marginal
+Microbial community composition,Fungi_Leaf endosphere,M:C:P,0.6502,
+Microbial community composition,Fungi_Root endosphere,Moisture (M),0.9408,Yes
+Microbial community composition,Fungi_Root endosphere,Climatic conditions (C),0.9272,Yes
+Microbial community composition,Fungi_Root endosphere,Plant species (P),2.8819,Yes
+Microbial community composition,Fungi_Root endosphere,M:C,0.7611,
+Microbial community composition,Fungi_Root endosphere,M:P,0.6155,
+Microbial community composition,Fungi_Root endosphere,C:P,0.6502,
+Microbial community composition,Fungi_Root endosphere,M:C:P,0.4997,
+Microbial community composition,Fungi_Rhizosphere,Moisture (M),0.8275,Marginal
+Microbial community composition,Fungi_Rhizosphere,Climatic conditions (C),1.3911,Yes
+Microbial community composition,Fungi_Rhizosphere,Plant species (P),2.52,Yes
+Microbial community composition,Fungi_Rhizosphere,M:C,0.8133,
+Microbial community composition,Fungi_Rhizosphere,M:P,0.7415,
+Microbial community composition,Fungi_Rhizosphere,C:P,0.7381,
+Microbial community composition,Fungi_Rhizosphere,M:C:P,0.5496,
