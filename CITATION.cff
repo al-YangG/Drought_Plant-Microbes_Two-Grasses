@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite this repository."
+title: "Drought Responses in Two Grassland Plant-Microbe Systems Under Climate Change"
+authors:
+  - family-names: "Yang"
+    given-names: "Gang"
+version: "1.0.0"
+date-released: "2025-12-09"
+repository-code: "https://github.com/al-YangG/Drought_Plant-Microbes_Two-Grasses"
+license: "MIT"
+preferred-citation:
+  type: software
+  title: "Drought_Plant-Microbes_Two-Grasses: Analysis Code and Data"
+  authors:
+    - family-names: "Yang"
+      given-names: "Gang"
+  year: 2025
+  url: "https://github.com/al-YangG/Drought_Plant-Microbes_Two-Grasses"
